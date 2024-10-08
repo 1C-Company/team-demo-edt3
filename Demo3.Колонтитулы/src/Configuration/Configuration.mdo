@@ -29,7 +29,7 @@
   <scriptVariant>Russian</scriptVariant>
   <defaultRoles>Role.КОЛ_ОсновнаяРоль</defaultRoles>
   <defaultLanguage>Language.Русский</defaultLanguage>
-  <compatibilityMode>8.3.24</compatibilityMode>
+  <compatibilityMode>8.3.25</compatibilityMode>
   <languages uuid="7db6d545-5484-4cee-aa2c-dc4d633d6047" extendedConfigurationObject="d5fb342e-0c73-4410-8517-8ce7ee20e8bd">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
